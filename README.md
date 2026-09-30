@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sumit Chame</h1>
-<h3 align="center">Full Stack Developer | Java • Python • JavaScript • SQL 🚀</h3>
+
+<h3 align="center">
+Aspiring Software Engineer | Full Stack Developer | Java | Python | Cybersecurity | CCNA | IT Support & Service Desk
+</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript+%7C+SQL;Building+Practical+Web+Applications;REST+APIs+%26+Backend+Development;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript+%7C+SQL;Cybersecurity+%7C+Networking+%7C+CCNA;IT+Support+%26+Service+Desk;Building+Practical+%26+Secure+Applications" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,23 +29,27 @@
 
 ## 💫 About Me
 
-I'm a **BCS student and Full Stack Developer** focused on building practical, scalable, and user-friendly software applications.
+I'm an **Aspiring Software Engineer and Full Stack Developer** with a strong interest in building practical, reliable, and secure software applications.
 
-I enjoy working across the stack — from designing responsive interfaces to developing REST APIs, working with databases, and integrating modern web technologies.
+My learning journey spans **software development, backend engineering, cybersecurity, networking, data, and IT support**, giving me a broad understanding of modern IT environments.
 
 * 🎓 **Currently pursuing:** Bachelor of Computer Science (BCS)
-* 💻 **Focus:** Full Stack Web Development & Backend Development
-* 🌱 **Currently learning:** Java, Spring Boot, React, SQL, REST APIs & Cloud Technologies
-* 🔨 **Currently building:** Web applications, developer tools & practical software projects
+* 💻 **Software Development:** Java, Python, JavaScript, SQL & OOP
+* 🌐 **Full Stack Development:** Frontend, Backend, REST APIs & Databases
+* 🔐 **Cybersecurity:** Security Fundamentals, Web Security & Secure Development
+* 🌐 **Networking:** CCNA concepts, TCP/IP, Routing, Switching & Troubleshooting
+* 🖥️ **IT Support:** Hardware, Software, OS & Network Troubleshooting
+* 🎧 **Service Desk:** Incident Troubleshooting, User Support & Technical Issue Resolution
+* 📊 **Data:** SQL, Python, Data Analysis & Visualization
+* 🌱 **Currently learning:** Java, Spring Boot, React, SQL, Linux, Networking & Cybersecurity
 * 🏢 **Founder:** CodeNova Tech Solutions
-* 🧩 **Interested in:** Software Engineering, Backend Systems, APIs & Problem Solving
-* 💡 **Approach:** Learn → Build → Test → Improve
+* 💡 **Goal:** Build strong software engineering fundamentals through continuous learning and real-world projects
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -54,22 +61,122 @@ I enjoy working across the stack — from designing responsive interfaces to dev
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### 🌐 Frontend
+### 🌐 Full Stack Development
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
 </p>
 
-### ⚙️ Backend & APIs
+**Focus Areas**
+
+* Responsive Web Development
+* Frontend Development
+* Backend Development
+* REST API Development
+* Database Integration
+* Authentication & Authorization
+* Full Stack Application Development
+
+---
+
+## 🧑‍💻 Software Engineering
+
+**Core Areas**
+
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* Software Development Life Cycle
+* REST API Design
+* Database Design
+* Debugging & Testing
+* Git & Version Control
+* Problem Solving
+* Software Architecture Fundamentals
+
+---
+
+## 🔐 Cybersecurity
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Cybersecurity-6366F1?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
 </p>
 
-### 🔧 Tools & Platforms
+**Areas of Interest**
+
+* Web Application Security
+* Secure Coding Practices
+* Authentication & Authorization
+* OWASP Fundamentals
+* Network Security
+* Linux & System Security
+* Vulnerability Awareness
+* Security Testing Fundamentals
+
+---
+
+## 🌐 Networking & CCNA
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="TCP/IP" />
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
+</p>
+
+**Networking Fundamentals**
+
+* OSI & TCP/IP Models
+* IPv4 & IPv6
+* Subnetting
+* Routing & Switching
+* VLANs
+* DHCP & DNS
+* Network Troubleshooting
+
+---
+
+## 🖥️ IT Support & Service Desk
+
+**Areas of Interest**
+
+* Windows & Linux Troubleshooting
+* Hardware & Software Troubleshooting
+* Network Connectivity Issues
+* Application Troubleshooting
+* User & Access Support
+* Incident Troubleshooting
+* Technical Documentation
+* Basic System Administration
+
+---
+
+## 📊 Data & Analytics
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+**Currently Exploring**
+
+* SQL & Data Queries
+* Data Cleaning
+* Data Analysis
+* Data Visualization
+* Exploratory Data Analysis
+* Python for Data Science
+* Statistics Fundamentals
+* Machine Learning Fundamentals
+
+---
+
+## 🔧 Tools & Platforms
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -84,41 +191,58 @@ I enjoy working across the stack — from designing responsive interfaces to dev
 
 ### 💱 Currency Converter
 
-A modern currency conversion web application featuring real-time exchange rates, historical data visualization, search, favorites, and multiple API fallbacks.
+A modern currency conversion web application featuring real-time exchange rates, historical data visualization, search, favorites, dark mode, and multiple API fallbacks.
 
-**Tech:** HTML5 • CSS3 • JavaScript • Chart.js
+**Tech Stack:** HTML5 • CSS3 • JavaScript • Chart.js
 
 🔗 **Repository:**
 https://github.com/sumit-chame/Currancy_Converter
 
 ---
 
-### 👨‍💻 More Projects Coming Soon
+### 🔐 Security & Networking Projects
 
-I'm continuously building projects to strengthen my skills in:
+Exploring practical projects focused on:
 
-* Full Stack Web Development
-* REST API Development
-* Backend Engineering
-* Database Management
-* Java & Spring Boot
-* Python Development
-* Developer Productivity Tools
+* Secure REST APIs
+* Authentication & Authorization
+* Web Security
+* Linux Security
+* Network Troubleshooting
+* Secure Coding Practices
+
+---
+
+### 📊 Data Science Projects
+
+Building and exploring projects around:
+
+* Python
+* SQL
+* Data Analysis
+* Data Visualization
+* Data Cleaning
+* Machine Learning Fundamentals
 
 ---
 
 ## 🏢 CodeNova Tech Solutions
 
-**Founder — CodeNova Tech Solutions**
+### Founder — CodeNova Tech Solutions
 
-I work on practical software solutions including:
+Working on practical technology solutions and software projects across development and IT.
+
+**Areas include:**
 
 * 🌐 Website Development
 * 📱 Android Application Development
-* ⚙️ Web & Backend Applications
+* ⚙️ Full Stack Applications
 * 🔌 REST API Development
+* 🔐 Security-Aware Application Development
+* 📊 Data & Technology Projects
+* 🖥️ IT Support & Technical Solutions
 * 🎓 Internship & Training Projects
-* 💡 IT Consulting & Technical Solutions
+* 💡 IT Consulting & Career Guidance
 
 > **Where Code Meets Brilliance.**
 
@@ -127,20 +251,26 @@ I work on practical software solutions including:
 ## 📚 Currently Learning
 
 ```text
-Java & OOP
-     ↓
+Java & Object-Oriented Programming
+              ↓
+Data Structures & Algorithms
+              ↓
 Spring Boot & REST APIs
-     ↓
+              ↓
 SQL & Database Design
-     ↓
-React & Modern Frontend
-     ↓
-Full Stack Applications
-     ↓
-Cloud & Backend Architecture
+              ↓
+React & Full Stack Development
+              ↓
+Python & Data Science
+              ↓
+Linux & System Administration
+              ↓
+CCNA & Networking
+              ↓
+Cybersecurity Fundamentals
+              ↓
+Secure & Scalable Applications
 ```
-
-I'm focused on developing strong fundamentals while building real-world projects rather than only completing tutorials.
 
 ---
 
@@ -150,15 +280,35 @@ I'm focused on developing strong fundamentals while building real-world projects
   <img src="https://img.shields.io/badge/LeetCode-SQL%20%26%20DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 </p>
 
-Currently practicing:
+**Currently practicing:**
 
 * SQL
 * Database Queries
 * Joins & Aggregations
 * Subqueries
 * Data Filtering
-* DSA Fundamentals
+* Data Structures & Algorithms
 * Problem Solving
+
+---
+
+## 📈 Development Focus
+
+```text
+Software Engineering
+        +
+Full Stack Development
+        +
+Cybersecurity
+        +
+Networking
+        +
+Data Science
+        +
+IT Support
+        ↓
+Practical & Secure Technology Solutions
+```
 
 ---
 
@@ -185,7 +335,9 @@ Currently practicing:
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with developers, recruiters, students, and teams working on interesting software projects.
+I'm open to connecting with developers, recruiters, students, and teams working in:
+
+**Software Engineering • Full Stack Development • Cybersecurity • Networking • Data Science • IT Support**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sumit-chame-945b87265/">
@@ -202,7 +354,7 @@ I'm interested in connecting with developers, recruiters, students, and teams wo
 ---
 
 <p align="center">
-  <i>Building. Learning. Improving. 🚀</i>
+  <i>Build. Learn. Secure. Solve. Improve. 🚀</i>
 </p>
 
 <p align="center">
