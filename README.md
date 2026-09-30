@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sumit-chame"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/sumit-chame-945b87265/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:sumitchame@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/sumit-chame"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
@@ -17,11 +17,11 @@
 
 ### 💫 About Me
 
-- 🔭 **Currently working on:** Advanced web applications and real-time interactive tools.
-- 🌱 **Currently learning:** Next.js, TypeScript, React, and Backend Cloud Microservices.
-- 👯 **Looking to collaborate on:** Open-source projects, modern frontend tools, and full-stack applications.
-- 💬 **Ask me about:** JavaScript, HTML/CSS, UI/UX Design, REST APIs, and Web Development.
-- ⚡ **Fun Fact:** I love turning complex logic into smooth, user-friendly digital experiences.
+* 🔭 **Currently working on:** Advanced web applications and real-time interactive tools.
+* 🌱 **Currently learning:** Next.js, TypeScript, React, and Backend Cloud Microservices.
+* 👯 **Looking to collaborate on:** Open-source projects, modern frontend tools, and full-stack applications.
+* 💬 **Ask me about:** JavaScript, HTML/CSS, UI/UX Design, REST APIs, and Web Development.
+* ⚡ **Fun Fact:** I love turning complex logic into smooth, user-friendly digital experiences.
 
 ---
 
@@ -73,8 +73,8 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-|---|---|---|---|
+| Project                   | Description                                                                                                                     | Tech Stack                | Links                                                     |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | --------------------------------------------------------- |
 | **💱 Currency Converter** | Real-time currency converter app with 7D/30D/90D historical charts, multi-tier API fallbacks, search, favorites, and dark mode. | HTML5, CSS3, JS, Chart.js | [Code](https://github.com/sumit-chame/Currancy_Converter) |
 
 ---
