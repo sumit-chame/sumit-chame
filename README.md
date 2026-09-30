@@ -33,7 +33,6 @@ I'm an **Aspiring Software Engineer and Full Stack Developer** with a strong int
 
 My learning journey spans **software development, backend engineering, cybersecurity, networking, data, and IT support**, giving me a broad understanding of modern IT environments.
 
-* 🎓 **Currently pursuing:** Bachelor of Computer Science (BCS)
 * 💻 **Software Development:** Java, Python, JavaScript, SQL & OOP
 * 🌐 **Full Stack Development:** Frontend, Backend, REST APIs & Databases
 * 🔐 **Cybersecurity:** Security Fundamentals, Web Security & Secure Development
