@@ -16,7 +16,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sumit-chame-945b87265/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:Sumitchame6782s@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.codenovatechsolutions.in/"><img src="https://img.shields.io/badge/CODENOVA-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CodeNova" /></a>
   <a href="https://github.com/sumit-chame"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://leetcode.com/u/sumit-chame/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <br/>
@@ -34,7 +33,7 @@
 
 **Hey! I'm Sumit 👋**
 
-I'm an IT student and founder of **CodeNova Tech Solutions**, passionate about building software that solves real problems.
+I'm an IT student passionate about building software that solves real problems.
 
 I enjoy working at the intersection of:
 
@@ -70,7 +69,6 @@ What interests me most is understanding how systems work internally, and how to 
   <a href="https://labs.cyberwarfare.live/credential/achievement/6acc8627a8a9c04f32d6f5b6"><img src="https://img.shields.io/badge/CERTIFIED-C3SA-6366f1?style=for-the-badge" alt="C3SA" /></a>
   <a href="https://www.credly.com/badges/319afbce-8e1f-4e23-8e69-893a964de674/linked_in_profile"><img src="https://img.shields.io/badge/CISCO-CYBERSECURITY-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" /></a>
   <a href="https://www.coursera.org/account/accomplishments/verify/L3YOQ6C8U1C2"><img src="https://img.shields.io/badge/COURSERA-PYTHON-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" /></a>
-  <img src="https://img.shields.io/badge/FOUNDER-CodeNova-0A66C2?style=for-the-badge" alt="Founder" />
 </p>
 
 <hr>
@@ -182,18 +180,6 @@ Hands-on work in secure REST APIs, authentication, web security, Linux hardening
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit-chame&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution graph" />
-</p>
-
-<hr>
-
-<!-- ================= CODENOVA ================= -->
-<h2 align="center">🏢 CodeNova Tech Solutions</h2>
-
-<p align="center"><b>Founder</b> • <i>Where Code Meets Brilliance.</i></p>
-
-<p align="center">
-  Website &amp; Full Stack Development • Android Apps • Security-Aware Design<br/>
-  IT Training &amp; Internship Programs • IT Consulting &amp; Career Guidance
 </p>
 
 <hr>
