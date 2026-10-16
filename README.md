@@ -15,10 +15,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sumit-chame-945b87265/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sumitchame@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:Sumitchame6782s@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.codenovatechsolutions.in/"><img src="https://img.shields.io/badge/CODENOVA-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CodeNova" /></a>
   <a href="https://github.com/sumit-chame"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/u/sumit-chame/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=sumit-chame&label=PROFILE%20VIEWS&color=6366f1&style=for-the-badge" alt="Profile views" />
 </p>
@@ -51,9 +51,11 @@ What interests me most is understanding how systems work internally, and how to 
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css&perline=6" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html&perline=6" alt="Languages" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,mysql,linux,git&perline=6" alt="Frameworks and tools" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,mysql,mongodb,vercel&perline=6" alt="Frameworks" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman,bootstrap&perline=6" alt="Tools" />
 
 </td>
 </tr>
@@ -65,9 +67,10 @@ What interests me most is understanding how systems work internally, and how to 
 <h2 align="center">✨ Learn • Build • Secure</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CERTIFIED-C3SA-6366f1?style=for-the-badge" alt="C3SA certified" />
+  <a href="https://labs.cyberwarfare.live/credential/achievement/6acc8627a8a9c04f32d6f5b6"><img src="https://img.shields.io/badge/CERTIFIED-C3SA-6366f1?style=for-the-badge" alt="C3SA" /></a>
+  <a href="https://www.credly.com/badges/319afbce-8e1f-4e23-8e69-893a964de674/linked_in_profile"><img src="https://img.shields.io/badge/CISCO-CYBERSECURITY-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" /></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/L3YOQ6C8U1C2"><img src="https://img.shields.io/badge/COURSERA-PYTHON-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" /></a>
   <img src="https://img.shields.io/badge/FOUNDER-CodeNova-0A66C2?style=for-the-badge" alt="Founder" />
-  <img src="https://img.shields.io/badge/NETWORKING-CCNA%20Prep-1BA0D7?style=for-the-badge" alt="CCNA prep" />
 </p>
 
 <hr>
@@ -76,8 +79,74 @@ What interests me most is understanding how systems work internally, and how to 
 <h2 align="center">🛠️ Languages, Frameworks &amp; Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,react,nodejs,bootstrap,mysql,linux,git,github,vscode,postman&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css,react,nodejs,tailwind,bootstrap,mysql,mongodb,linux,git,github,vscode,postman,vercel&perline=10" alt="Tech stack" />
 </p>
+
+<hr>
+
+<!-- ================= CERTIFICATIONS ================= -->
+<h2 align="center">🏅 Certifications</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<b>CWL Certified Cyber Security Analyst (C3SA)</b><br/>
+<sub>CyberWarfare Labs</sub><br/><br/>
+<a href="https://labs.cyberwarfare.live/credential/achievement/6acc8627a8a9c04f32d6f5b6">View Credential</a>
+</td>
+<td align="center" width="33%">
+<b>Introduction to Cybersecurity</b><br/>
+<sub>Cisco</sub><br/><br/>
+<a href="https://www.credly.com/badges/319afbce-8e1f-4e23-8e69-893a964de674/linked_in_profile">View Credential</a>
+</td>
+<td align="center" width="33%">
+<b>Python for Data Science, AI &amp; Development</b><br/>
+<sub>Coursera</sub><br/><br/>
+<a href="https://www.coursera.org/account/accomplishments/verify/L3YOQ6C8U1C2">View Credential</a>
+</td>
+</tr>
+</table>
+
+<hr>
+
+<!-- ================= PROJECTS ================= -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+<tr>
+<td width="33%" valign="top">
+
+### 💸 PaisaPal
+
+A student-focused money tracker with a dashboard, quick transaction entry, and spending insights.
+
+**Stack:** React • TypeScript • Vite • Tailwind • Dexie • Zustand
+
+🔗 [Live Demo](https://paisa-pal-money-tracker.vercel.app/) • [Repository](https://github.com/sumit-chame/PaisaPal-Money-Tracker)
+
+</td>
+<td width="33%" valign="top">
+
+### 💱 Currency Converter
+
+Real-time exchange rates, historical charts, search, favorites, dark mode, and multiple API fallbacks.
+
+**Stack:** HTML • CSS • JavaScript • Chart.js
+
+🔗 [Repository](https://github.com/sumit-chame/Currancy_Converter)
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 Security &amp; Networking Practice
+
+Hands-on work in secure REST APIs, authentication, web security, Linux hardening, and network troubleshooting.
+
+**Focus:** OWASP • Secure Coding • TCP/IP
+
+</td>
+</tr>
+</table>
 
 <hr>
 
@@ -85,8 +154,8 @@ What interests me most is understanding how systems work internally, and how to 
 <h2 align="center">🧠 LeetCode</h2>
 
 <p align="center">
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
+  <a href="https://leetcode.com/u/sumit-chame/">
+    <img src="https://leetcard.jacoblin.cool/sumit-chame?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
   </a>
 </p>
 
@@ -114,36 +183,6 @@ What interests me most is understanding how systems work internally, and how to 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit-chame&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution graph" />
 </p>
-
-<hr>
-
-<!-- ================= PROJECTS ================= -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 💱 Currency Converter
-
-Real-time exchange rates, historical charts, search, favorites, dark mode, and multiple API fallbacks.
-
-**Stack:** HTML • CSS • JavaScript • Chart.js
-
-🔗 [View Repository](https://github.com/sumit-chame/Currancy_Converter)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Security &amp; Networking Practice
-
-Hands-on work in secure REST APIs, authentication, web security, Linux hardening, and network troubleshooting.
-
-**Focus:** OWASP • Secure Coding • TCP/IP
-
-</td>
-</tr>
-</table>
 
 <hr>
 
