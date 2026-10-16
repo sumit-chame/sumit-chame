@@ -19,7 +19,7 @@
   <a href="https://github.com/sumit-chame"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://leetcode.com/u/sumit-chame/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=sumit-chame&label=PROFILE%20VIEWS&color=6366f1&style=for-the-badge" alt="Profile views" />
+ 
 </p>
 
 <hr>
