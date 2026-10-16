@@ -1,156 +1,178 @@
-<h1 align="center">Hi 👋, I'm Sumit Chame</h1>
+<!-- ================= HEADER BANNER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Sumit%20Chame&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Cybersecurity&descSize=20&descAlignY=60" width="100%" alt="Sumit Chame banner" />
+</p>
 
-<h3 align="center">
-Aspiring Software Engineer | Full Stack Developer | Cybersecurity Enthusiast
-</h3>
+<h2 align="center">👋 Hey, I'm Sumit Chame</h2>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript+%7C+SQL;Cybersecurity+%7C+Networking;Building+Practical+%26+Secure+Applications" alt="Typing SVG" />
-  </a>
+  <b>Software Engineer • Full Stack Developer • Cybersecurity Enthusiast</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sumit-chame-945b87265/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:sumitchame@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.codenovatechsolutions.in/">
-    <img src="https://img.shields.io/badge/CodeNova-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CodeNova Tech Solutions">
+  Building practical, secure applications and real-world engineering solutions.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sumit-chame-945b87265/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sumitchame@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.codenovatechsolutions.in/"><img src="https://img.shields.io/badge/CODENOVA-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CodeNova" /></a>
+  <a href="https://github.com/sumit-chame"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=sumit-chame&label=PROFILE%20VIEWS&color=6366f1&style=for-the-badge" alt="Profile views" />
+</p>
+
+<hr>
+
+<!-- ================= ABOUT ME ================= -->
+<h2 align="center">🧑‍💻 About Me</h2>
+
+<table align="center">
+<tr>
+<td width="60%" valign="top">
+
+**Hey! I'm Sumit 👋**
+
+I'm an IT student and founder of **CodeNova Tech Solutions**, passionate about building software that solves real problems.
+
+I enjoy working at the intersection of:
+
+**Full Stack Development · Cybersecurity · Networking · Databases · DSA**
+
+What interests me most is understanding how systems work internally, and how to make them secure, rather than simply using them.
+
+- 🔨 Building full stack projects with REST APIs and databases
+- 🔐 Learning secure coding and web application security
+- 🌐 Studying networking and Linux fundamentals
+- 🧩 Solving DSA and SQL problems
+- 🚀 Turning ideas into practical software
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css&perline=6" alt="Languages" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,mysql,linux,git&perline=6" alt="Frameworks and tools" />
+
+</td>
+</tr>
+</table>
+
+<hr>
+
+<!-- ================= HIGHLIGHTS ================= -->
+<h2 align="center">✨ Learn • Build • Secure</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CERTIFIED-C3SA-6366f1?style=for-the-badge" alt="C3SA certified" />
+  <img src="https://img.shields.io/badge/FOUNDER-CodeNova-0A66C2?style=for-the-badge" alt="Founder" />
+  <img src="https://img.shields.io/badge/NETWORKING-CCNA%20Prep-1BA0D7?style=for-the-badge" alt="CCNA prep" />
+</p>
+
+<hr>
+
+<!-- ================= TECH ================= -->
+<h2 align="center">🛠️ Languages, Frameworks &amp; Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,react,nodejs,bootstrap,mysql,linux,git,github,vscode,postman&perline=8" alt="Tech stack" />
+</p>
+
+<hr>
+
+<!-- ================= PROBLEM SOLVING ================= -->
+<h2 align="center">🧠 LeetCode</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
   </a>
 </p>
 
----
+<hr>
 
-## 💫 About Me
+<!-- ================= GITHUB STATS ================= -->
+<h2 align="center">📊 GitHub Statistics</h2>
 
-I'm an IT student and aspiring software engineer who enjoys building practical, reliable, and secure applications. I'm the founder of **CodeNova Tech Solutions**, where I work on web and app projects and run IT training and internship programs in Pune.
-
-My background combines software development with cybersecurity and networking, so I think about security and reliability from the start of a project, not as an afterthought.
-
-* 💻 **Building:** full stack web applications with REST APIs and databases
-* 🔐 **Focus:** web security, secure coding, and a career in cybersecurity
-* 🌱 **Currently learning:** Java, Spring Boot, React, Linux, and networking
-* 🎯 **Goal:** build strong engineering fundamentals through real-world projects
-
----
-
-## 🏅 Certifications
-
-* **CWL Certified Cyber Security Analyst (C3SA)**, October 2026
-* **CCNA**, currently preparing
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sumit-chame&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-chame&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
-### Web & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sumit-chame&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-### Core Areas
+<hr>
 
-| Area | What I work on |
-|------|----------------|
-| **Software Engineering** | OOP, data structures & algorithms, REST API design, database design, debugging, Git |
-| **Cybersecurity** | OWASP fundamentals, secure coding, authentication & authorization, Linux and network security |
-| **Networking** | OSI & TCP/IP, subnetting, routing & switching, VLANs, DHCP & DNS, troubleshooting |
-| **Data** | SQL, Python, Pandas, data cleaning, analysis, and visualization |
+<!-- ================= ACTIVITY ================= -->
+<h2 align="center">📈 Contribution &amp; Coding Activity</h2>
 
----
+<p align="center"><i>Building consistently. Solving consistently. Learning consistently.</i></p>
 
-## 🚀 Featured Projects
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit-chame&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution graph" />
+</p>
+
+<hr>
+
+<!-- ================= PROJECTS ================= -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
 ### 💱 Currency Converter
 
-A currency conversion web app with real-time exchange rates, historical charts, search, favorites, dark mode, and multiple API fallbacks.
+Real-time exchange rates, historical charts, search, favorites, dark mode, and multiple API fallbacks.
 
-**Tech:** HTML5 • CSS3 • JavaScript • Chart.js
-🔗 [View repository](https://github.com/sumit-chame/Currancy_Converter)
+**Stack:** HTML • CSS • JavaScript • Chart.js
 
-### 🔐 Security & Networking Practice
+🔗 [View Repository](https://github.com/sumit-chame/Currancy_Converter)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Security &amp; Networking Practice
 
 Hands-on work in secure REST APIs, authentication, web security, Linux hardening, and network troubleshooting.
 
-### 📊 Data Projects
+**Focus:** OWASP • Secure Coding • TCP/IP
 
-Python and SQL projects covering data cleaning, analysis, and visualization.
+</td>
+</tr>
+</table>
 
----
+<hr>
 
-## 🏢 CodeNova Tech Solutions
+<!-- ================= CODENOVA ================= -->
+<h2 align="center">🏢 CodeNova Tech Solutions</h2>
 
-**Founder** | *Where Code Meets Brilliance.*
-
-CodeNova delivers practical technology solutions and learning programs:
-
-* 🌐 Website and full stack application development
-* 📱 Android application development
-* 🔐 Security-aware application design
-* 🎓 IT training and internship programs
-* 💡 IT consulting and career guidance
-
----
-
-## 📚 Currently Focused On
-
-* **Java & Spring Boot:** OOP, REST APIs, and backend fundamentals
-* **SQL & Data Structures:** daily practice on LeetCode
-* **React:** full stack application development
-* **Linux, CCNA & Cybersecurity:** networking and security fundamentals
-
----
-
-## 📊 GitHub Stats
+<p align="center"><b>Founder</b> • <i>Where Code Meets Brilliance.</i></p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumit-chame&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sumit's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-chame&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  Website &amp; Full Stack Development • Android Apps • Security-Aware Design<br/>
+  IT Training &amp; Internship Programs • IT Consulting &amp; Career Guidance
 </p>
 
----
+<hr>
 
-## 🤝 Let's Connect
-
-I'm open to internships, entry-level roles, and collaboration in **software engineering, cybersecurity, and full stack development**.
+<!-- ================= VISION ================= -->
+<h2 align="center">🎯 Vision</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sumit-chame-945b87265/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:sumitchame@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  Build strong engineering fundamentals, ship real-world projects, and grow into a software engineer<br/>
+  who designs secure and scalable systems.
 </p>
+
+<hr>
 
 <p align="center">
   <i>Build. Learn. Secure. Improve. 🚀</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=120&section=footer" width="100%" alt="footer" />
 </p>
